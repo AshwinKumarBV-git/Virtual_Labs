@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+sqlalchemy  # For SQLite ORM
+aiosqlite      # Async SQLite driver
+python-dotenv # For .env file handling
+google-generativeai # For Gemini API
+Pillow # For image handling (PIL) 
